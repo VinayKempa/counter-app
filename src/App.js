@@ -89,15 +89,15 @@ const Counter = ({ title }) => {
         </strong>
       </dd>
       <dd>
-        <span
+        <button
           className="btn btn-outline-success btn-sm me-2"
           onClick={increment}
         >
           Increment
-        </span>
-        <span className="btn btn-outline-danger btn-sm" onClick={decrement}>
+        </button>
+        <button className="btn btn-outline-danger btn-sm" onClick={decrement}>
           Decrement
-        </span>
+        </button>
       </dd>
     </div>
   );
