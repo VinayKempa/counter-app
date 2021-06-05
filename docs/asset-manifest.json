@@ -1,23 +1,17 @@
 {
   "files": {
-    "main.css": "/counter-app/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/counter-app/static/js/main.bb58e091.chunk.js",
-    "main.js.map": "/counter-app/static/js/main.bb58e091.chunk.js.map",
-    "runtime-main.js": "/counter-app/static/js/runtime-main.db7b98c1.js",
-    "runtime-main.js.map": "/counter-app/static/js/runtime-main.db7b98c1.js.map",
-    "static/js/2.d1d3d06a.chunk.js": "/counter-app/static/js/2.d1d3d06a.chunk.js",
-    "static/js/2.d1d3d06a.chunk.js.map": "/counter-app/static/js/2.d1d3d06a.chunk.js.map",
-    "static/js/3.bac285ed.chunk.js": "/counter-app/static/js/3.bac285ed.chunk.js",
-    "static/js/3.bac285ed.chunk.js.map": "/counter-app/static/js/3.bac285ed.chunk.js.map",
+    "main.css": "/counter-app/static/css/main.d46e6c84.chunk.css",
+    "main.js": "/counter-app/static/js/main.d74d5b83.chunk.js",
+    "runtime-main.js": "/counter-app/static/js/runtime-main.ea5d7651.js",
+    "static/js/2.5fbf199a.chunk.js": "/counter-app/static/js/2.5fbf199a.chunk.js",
+    "static/js/3.a495f869.chunk.js": "/counter-app/static/js/3.a495f869.chunk.js",
     "index.html": "/counter-app/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/counter-app/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.d1d3d06a.chunk.js.LICENSE.txt": "/counter-app/static/js/2.d1d3d06a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/counter-app/static/media/logo.6ce24c58.svg"
+    "static/js/2.5fbf199a.chunk.js.LICENSE.txt": "/counter-app/static/js/2.5fbf199a.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.db7b98c1.js",
-    "static/js/2.d1d3d06a.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.bb58e091.chunk.js"
+    "static/js/runtime-main.ea5d7651.js",
+    "static/js/2.5fbf199a.chunk.js",
+    "static/css/main.d46e6c84.chunk.css",
+    "static/js/main.d74d5b83.chunk.js"
   ]
 }
